@@ -18,7 +18,7 @@ class Main {
       for (int j = 0; j < (size-i-1); j++) {
 
         // compare two array elements
-        // change > to < to sort in descending order
+        // change > to < to sort in descending 
         if (array[j] > array[j + 1]) {
 
           // swapping occurs if elements
